@@ -21,6 +21,6 @@ This project is a high-fidelity dashboard UI built with React.js. It features a 
 3. Run the project: `npm start`.
 
 ## Deployment
-The project is deployed at [[deployment link](https://openinappbysivasai.netlify.app/)https://openinappbysivasai.netlify.app/].
+The project is deployed at [[deployment link](https://openinappbysivasai.netlify.app/)].
 
 
