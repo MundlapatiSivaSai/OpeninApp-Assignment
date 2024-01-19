@@ -32,8 +32,7 @@ const DemoPieChart = () => {
       labels: ["Bitcoin", "Etherium", "Tether", 'XRP'],
       datasets: [
         {
-          label: "Fake Data!",
-          data: [45, 30, 15, 10],
+          data: [40, 32, 15, 13],
           backgroundColor: [
             "rgb(152,216,158)",
             "rgb(255, 99, 132)",
